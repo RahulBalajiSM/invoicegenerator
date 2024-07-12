@@ -3,4 +3,4 @@ This is an amount generator that generates the total amount with the tax provide
 
 
 
-https://jazzy-sawine-d666bb.netlify.app
+https://free-tax-invoice-generator.netlify.app
